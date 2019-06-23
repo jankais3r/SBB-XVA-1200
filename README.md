@@ -16,7 +16,7 @@ Expires: Monday, 1 October 2035 at 09:50:01 Central European Summer Time
 "*.sbbmobile.ch" certificate is not trusted
 ```
 5) AirDrop the certificate file to your iPhone/iPad running iOS 13 beta
-6) Go to Settings and Install the certificate
+6) Go to Settings and Install the certificate (There will be a new button at the top of the Settings page, between iCloud and Airplane Mode, asking you to finish the installation.)
 7) Go to Settings > General > About > Certificate Trust Settings and enable the newly installed certificate
 
 --- OR ---
