@@ -1,6 +1,8 @@
 # SBB-XVA-1200
 Fix for SSL certificate error in SBB app on iOS 13 beta
 
+### Update: As of today, this workaround is no longer needed. SBB updated their app with proper certificate.
+
 ## Steps:
 1) On your Mac, enter the following command in Terminal:
 
